@@ -23,3 +23,5 @@ options:
   4. 指定输出: python script.py https://example.com/update.zip system -o system.img
   5. 多线程下载: python script.py https://example.com/update.zip vendor -t 16
 ```
+
+添加UI界面
